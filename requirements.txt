@@ -1,4 +1,2 @@
-sys
-openai
-streamlit
-datetime
+openai-0.25.0
+streamlit-1.16.0
